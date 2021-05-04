@@ -89,7 +89,6 @@ to encourage further development of the tool.
 
 ## Original author
 
-  Muris Kurgas aka j0rgan  
   j0rgan@remote-exploit.org  
   http://www.remote-exploit.org  
   http://www.azuzi.me  
